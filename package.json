@@ -1,0 +1,22 @@
+{
+  "name": "jsgrid",
+  "version": "1.0.0",
+  "description": "Canvas-aware grid library",
+  "main": "grid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaedenn/jsgrid.git"
+  },
+  "author": "Kaedenn",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Kaedenn/jsgrid/issues"
+  },
+  "homepage": "https://github.com/Kaedenn/jsgrid#readme",
+  "dependencies": {
+    "eslint": "^6.1.0"
+  }
+}
